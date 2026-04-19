@@ -1,0 +1,7 @@
+name = "investment-api-proxy"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# Secrets — set with: wrangler secret put POLYGON_API_KEY
+# [vars]
+# PUBLIC_VAR = "example"
